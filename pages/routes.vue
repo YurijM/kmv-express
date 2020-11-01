@@ -157,6 +157,7 @@ export default {
   },
   data() {
     return {
+      test: 'Проверка Git',
       dialog: false,
       valid: true,
       loading: false,
